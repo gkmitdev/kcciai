@@ -23,6 +23,10 @@ What is ciPARTHENON.
 ciPARTHENON is a data management and visualization tool which allows you to manage and track all your data in one place. If you are looking into making informed decisions faster, you are at the right place. ciPARTHENON helps you turn data into information quickly with our live and interactive dashboards, self-updating reports and shared workspaces.
 
 **ciPARTHENON helps you to react faster!**
+ciPARTHENON always shows you the latest data. You can navigate through your information easily: dashboards favourites, drill downs etc. You will have a better look at your data with the right visualization.
+
+![Alt text](https://github.com/gkmitdev/kcciai/blob/main/assets/ciPARTHENON_1.png?raw=true)
+
 
 
 
